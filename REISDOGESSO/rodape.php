@@ -1,5 +1,6 @@
 <?php
 echo '
+</div>
     <footer class="footer mt-auto py-3">
       <table class="tabela-contato">
         <tr>
