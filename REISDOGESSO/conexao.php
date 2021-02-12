@@ -1,5 +1,5 @@
 <?php
-    define('HOST', '85.10.205.173:3306');
+    define('HOST', '85.10.205.173');
     define('USUARIO', 'juliareis');
     define('SENHA', 'abracadabra');
     define('DB', 'reisdogesso');
