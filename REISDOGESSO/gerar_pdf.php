@@ -8,7 +8,7 @@ if (!isset($_SESSION)) {//Verificar se a sessão não já está aberta.
 
   $codigo_busca = $_SESSION["codigo_busca"];
 
-define('DATABASE',array('HOST'=>'localhost','DB'=>'reisdogesso','USER'=>'root','PASSWORD'=>''));
+define('DATABASE',array('HOST'=>'85.10.205.173','DB'=>'reisdogesso','USER'=>'juliareis','PASSWORD'=>'abracadabra'));
 
 try{
     $pdo = new PDO("mysql:host=".DATABASE['HOST'].";dbname=".DATABASE['DB'],DATABASE['USER'],DATABASE['PASSWORD'],
