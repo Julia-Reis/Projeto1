@@ -87,7 +87,7 @@ echo '
                 echo'
                 <form action="resultado_pesquisa.php" method="POST" class="form-inline mt-2 mt-md-0" >
                   <input class="form-control mr-sm-2" type="text" name="buscar" placeholder="Pesquisar..." aria-label="Search">
-                  <button class="btn btn-outline-info my-2 my-sm-0" data-toggle="modal" data-target="#modalDrywall" type="submit">Buscar</button>
+                  <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Buscar</button>
                 </form>';
                 }
               }

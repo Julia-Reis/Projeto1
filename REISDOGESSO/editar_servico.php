@@ -58,6 +58,8 @@ echo'
     </form>
   </div>
 </div>
+</div>
+ </body>
+</html>
 ';
-    include "rodape.php";
 ?>

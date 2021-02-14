@@ -1,6 +1,7 @@
 <?php
 echo '
-</div>
+  </div>
+  <div class="div-footer">
     <footer class="footer mt-auto py-3">
       <table class="tabela-contato">
         <tr>
@@ -13,6 +14,7 @@ echo '
         <a href="">Topo</a>
       </p>
     </footer>
+    </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

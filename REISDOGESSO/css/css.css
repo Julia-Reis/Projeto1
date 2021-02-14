@@ -169,6 +169,11 @@ footer{
     background-color: black;
     text-align: center;
     height: 70px;
+    width: 900px;
+}
+
+.div-footer{
+    margin-top: 180px;
 }
 
 /*Configuração dos icons que aparecem no rodapé*/

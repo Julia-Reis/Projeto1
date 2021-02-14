@@ -20,8 +20,9 @@ echo'
             <br>
             <a href="cadastro.php">Ainda não é inscrito? <strong>Cadastre-se</strong></a>
         </form>
-    </div>    
+    </div>
+   </div>
+  </body>
+ </html>
 ';
-
-include "rodape.php";
 ?>
