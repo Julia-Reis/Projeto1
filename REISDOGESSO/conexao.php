@@ -1,5 +1,5 @@
 <?php
-    define('HOST', '85.10.205.173');
+    define('HOST', 'mysql380.umbler.com');
     define('USUARIO', 'juliareis');
     define('SENHA', 'abracadabra');
     define('DB', 'reisdogesso');
